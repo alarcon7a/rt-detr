@@ -15,7 +15,7 @@ En este repo encontraras los primeros pasos para implementar RAG de una manera s
 
 [RT_DETR - Notebook](RT_DETR.ipynb)
 
-[Camera detection on real tiem - python file](https://github.com/alarcon7a/rt-detr/blob/main/camera%20detection.py)
+[Camera detection on real time - python file](https://github.com/alarcon7a/rt-detr/blob/main/camera%20detection.py)
 
 
 
